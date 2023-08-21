@@ -246,7 +246,6 @@
 
 .footer {
   background-color: black;
-
   width: 100%;
   display: flex;
 }
@@ -256,6 +255,7 @@
   margin: 30px auto 30px;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .footer_column_content_copyright {
